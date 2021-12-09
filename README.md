@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science, Full Stack Developement, Blockchain and Game Dev.
 - 🌱 I’m currently learning Game Dev
 - 📫 How to reach me : mohitv15@gmail.com
+- I work as a car architect in Renault Nissan Alliance.
 
 <!---
 mohitv789/mohitv789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohitv789
 - 👀 I’m interested in Data Science, Full Stack Developement, Blockchain and Game Dev.
 - 🌱 I’m currently learning Game Dev
-- 📫 How to reach me : mohitv15@gmail.com
+- 📫 How to reach me : mohitv15@gmail.com / mohit.verma-a@rntbci.com
 - I work as a car architect in Renault Nissan Alliance.
 
 <!---

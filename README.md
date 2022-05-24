@@ -3,7 +3,7 @@
 - 👀 I have knowledge of Data Science, Full Stack Developement & Frontend-Backend Development, Blockchain Development and Game Development in Unreal Engine.
 - I like to work on Data Pre and Post Processing and Machine Learning and Deep - Neural Networks. 
 - I would love to have a learning opportunity for GANS and YOLO algorithms.
-- 📫 How to reach me : mohitv15@gmail.com
+- 📫 How to reach me : mohitv15@gmail.com / mohit.r1p.31@gmail.com
 
 <!---
 mohitv789/mohitv789 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
